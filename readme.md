@@ -1,4 +1,4 @@
-![recursos](assets/docs/linux.jpg)
+![recurso](assets/docs/linux.jpg)
 
    
 
